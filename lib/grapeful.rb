@@ -1,4 +1,3 @@
+require "grape"
 require "grapeful/version"
-
-module Grapeful
-end
+require "grapeful/endpoint"
