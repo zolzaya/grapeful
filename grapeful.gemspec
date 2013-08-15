@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Grapeful::VERSION
   spec.authors       = ["Zolzaya E."]
   spec.email         = ["zolzaya.erdenebaatar@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = "Custom Response builder for Grape"
+  spec.summary       = "Custom Response builder for Grape"
+  spec.homepage      = "https://github.com/zolzaya/grapeful"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
