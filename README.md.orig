@@ -32,6 +32,24 @@ The response will be
   }
 ```
 
+<<<<<<< HEAD
+```ruby
+  # Hello World
+  class API < Grape::API
+    get :hello do
+      ful :hello, 'world'
+    end
+  end
+```
+The response will be
+```ruby
+  {
+    "hello": "world"
+  }
+```
+
+=======
+>>>>>>> Updating Readme
 Using with ActiveRecord
 ```ruby
   class API < Grape::API
