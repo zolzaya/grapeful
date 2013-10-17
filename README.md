@@ -1,6 +1,6 @@
 # Grapeful
 
-Customer Response builder for Grape.
+Custom Response builder for Grape.
 
 ## Installation
 
